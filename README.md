@@ -30,7 +30,7 @@ A modified `Portal.mustache` is provided in this repo (warning: based on DSM 6.1
 
 > In **bold** versions overwriting the `Portal.mustache`
 
-- **6.2.1-23824** : overwrites the `Portal.mustache` with a completly new template. **Starting from this version, hacking files are not required anymore as Application Portail reverse proxy feature now has an option to handle websocker.**
+- **6.2.1-23824** : overwrites the `Portal.mustache` with a completly new template. **Starting from this version, hacking files are not required anymore as Application Portal reverse proxy feature now has an option to handle websocket.**
 
 - **6.2-23739** : overwrites the `Portal.mustache`
 - **6.1.7-15284** : overwrites the `Portal.mustache`
